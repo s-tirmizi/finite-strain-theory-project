@@ -1,0 +1,4 @@
+app_name = terzaghi_project
+allow_warnings = false
+allow_unused = false
+allow_override = false

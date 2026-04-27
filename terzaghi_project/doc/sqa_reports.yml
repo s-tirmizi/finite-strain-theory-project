@@ -1,0 +1,6 @@
+Applications:
+    terzaghi_project:
+        app_types:
+            - terzaghi_projectApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
