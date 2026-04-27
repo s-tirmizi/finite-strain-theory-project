@@ -1,6 +1,3 @@
-# finite-strain-theory-project
-PGE 383 - Advanced Geomechanics Course Project
-
 # Beyond Small Strain: Proving the Importance of Finite Strain Theory
 **1D Terzaghi Consolidation: A Computational Comparison of Small-Strain and Total Lagrangian Formulations**
 
