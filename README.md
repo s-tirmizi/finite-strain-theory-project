@@ -30,14 +30,3 @@ The governing systems of partial differential equations (Solid Equilibrium + Flu
 * **Linear Algebra:** MUMPS parallel direct solver.
 * **Time Integration:** Implicit Euler scheme for unconditional stability.
 * **Time-Stepping:** Iteration-adaptive time-stepping to accurately resolve the rapid pore pressure generation during the initial loading phase.
-
-## 📂 Repository Structure
-```text
-├── docs/                   # Mathematical documentation and weak form derivations
-├── meshes/                 # Quad9 mesh files for the 1D columns
-├── src/
-│   ├── analytical/         # Python/MATLAB scripts for the Terzaghi series solution
-│   ├── small_strain/       # Input files and kernels for the small-strain bilayer model
-│   └── large_strain/       # Input files and kernels for the Total Lagrangian model
-├── results/                # Output data, paraview files, and comparative plots
-└── README.md
