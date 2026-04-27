@@ -1300,11 +1300,11 @@
 \definecolor{currentstroke}{rgb}{0.031373,0.289735,0.570319}%
 \pgfsetstrokecolor{currentstroke}%
 \pgfsetdash{}{0pt}%
-\pgfpathmoveto{\pgfqpoint{0.752310in}{1.213623in}}%
-\pgfpathlineto{\pgfqpoint{3.457244in}{1.461993in}}%
-\pgfpathlineto{\pgfqpoint{4.747826in}{1.722535in}}%
-\pgfpathlineto{\pgfqpoint{6.162178in}{2.225968in}}%
-\pgfpathlineto{\pgfqpoint{7.683143in}{3.236242in}}%
+\pgfpathmoveto{\pgfqpoint{0.752310in}{1.228341in}}%
+\pgfpathlineto{\pgfqpoint{3.457244in}{1.556233in}}%
+\pgfpathlineto{\pgfqpoint{4.747826in}{1.892941in}}%
+\pgfpathlineto{\pgfqpoint{6.162178in}{2.540749in}}%
+\pgfpathlineto{\pgfqpoint{7.683143in}{3.839073in}}%
 \pgfusepath{stroke}%
 \end{pgfscope}%
 \begin{pgfscope}%
